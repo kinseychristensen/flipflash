@@ -1,5 +1,5 @@
-# Final Capstone
+# Flip Flash
 ​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+This website was created as a final capstone project for graduation from Tech Elevator.  It allows a user to register and access admin created decks of flashcards.  Users can create their own copies of those decks to edit.  They can add cards to decks, create cards, and delete cards and decks.  They can also initiate a study session that tracks their accuracy.  
+
+Built with Megan Trigg, Victor Cushman, and Nimensio Johnson.
